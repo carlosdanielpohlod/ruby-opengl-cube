@@ -1,0 +1,15 @@
+GEM
+  specs:
+    fiddle (1.1.6)
+    opengl-bindings2 (2.0.4)
+      fiddle (~> 1.0)
+
+PLATFORMS
+  ruby
+  x86_64-linux
+
+DEPENDENCIES
+  opengl-bindings2
+
+BUNDLED WITH
+   2.6.2
